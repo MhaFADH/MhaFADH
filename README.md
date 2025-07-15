@@ -12,16 +12,16 @@ I often repair and work on my own vehicle and others, as a way to learn and expl
 
 Currently learning and applying:
 
-- 🧩 CAN bus communication
-- 📡 ESP32 modules
-- ⏱️ Real-time operating systems: FreeRTOS, Zephyr RTOS
-- 🧠 Low-level systems design and architecture
+-  CAN bus communication
+-  ESP32 modules
+-  Real-time operating systems: FreeRTOS, Zephyr RTOS
+-  Low-level systems design and architecture
 
 To apply this knowledge, I’m building small projects such as:
 
-- 🛠️ A CAN bus sniffer/reader
-- 📍 Parking sensor system
-- 🔧 Diagnostic tools
+-  A CAN bus sniffer/reader
+-  Parking sensor system
+-  Diagnostic tools
 
 These are learning-focused projects, which I plan to rebuild on different RTOS platforms to explore how they behave under varying design constraints.
 
